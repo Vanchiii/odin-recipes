@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, sans-serif;
+    background-color: rgb(255, 183, 50);
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
